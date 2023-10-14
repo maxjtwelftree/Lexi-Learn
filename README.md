@@ -16,6 +16,7 @@ Then run:
 ```bash
 $ flutter packages get
 ```
+* Note, the project is still under development
 
 ## Features
 Interactive Exercises: Engage with custom exercises tailored for dyslexic students.
